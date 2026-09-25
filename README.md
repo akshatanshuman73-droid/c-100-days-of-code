@@ -9,8 +9,8 @@ Official Challenge: [100 Days of Code — UPES](https://maitysoumik.github.io/ba
 ## 📊 Challenge Overview
 
 - **Start Date:** August 10, 2026
-- **Current Progress:** Day 37 / 100 (74 Problems Solved)
-- **Official Challenge Pace:** Day 46 (September 24, 2026)
+- **Current Progress:** Day 47 / 100 (94 Problems Solved)
+- **Official Challenge Pace:** Day 47 (September 25, 2026) — *Up to Date!*
 - **Format:**
   - **Phase 1 (Days 1–50):** 2 problems per day (Q01 to Q100)
   - **Phase 2 (Days 51–100):** 1 problem per day (Q101 to Q150)
@@ -58,16 +58,16 @@ Official Challenge: [100 Days of Code — UPES](https://maitysoumik.github.io/ba
 | **Day 35** | Sep 13, 2026 | Arrays (1D) | 1. **Q69**: Find the second largest element in an array.<br>2. **Q70**: Rotate an array to the right by k positions. | [`Q69.c`](./Day_35/Q69.c), [`Q70.c`](./Day_35/Q70.c) |
 | **Day 36** | Sep 14, 2026 | 2D Arrays | 1. **Q71**: Read and print a matrix.<br>2. **Q72**: Find the sum of all elements in a matrix. | [`Q71.c`](./Day_36/Q71.c), [`Q72.c`](./Day_36/Q72.c) |
 | **Day 37** | Sep 15, 2026 | 2D Arrays | 1. **Q73**: Find the sum of each row of a matrix and store it in an array.<br>2. **Q74**: Find the transpose of a matrix. | [`Q73.c`](./Day_37/Q73.c), [`Q74.c`](./Day_37/Q74.c) |
-| **Day 38** | Sep 16, 2026 | 2D Arrays | 1. **Q75**: Add two matrices.<br>2. **Q76**: Check if a matrix is symmetric. | ⏳ Upcoming |
-| **Day 39** | Sep 17, 2026 | 2D Arrays | 1. **Q77**: Check if the elements on the diagonal of a matrix are distinct.<br>2. **Q78**: Find the sum of main diagonal elements for a square matrix. | ⏳ Upcoming |
-| **Day 40** | Sep 18, 2026 | 2D Arrays | 1. **Q79**: Perform diagonal traversal of a matrix.<br>2. **Q80**: Multiply two matrices. | ⏳ Upcoming |
-| **Day 41** | Sep 19, 2026 | Strings | 1. **Q81**: Count characters in a string without using built-in length functions.<br>2. **Q82**: Print each character of a string on a new line. | ⏳ Upcoming |
-| **Day 42** | Sep 20, 2026 | Strings | 1. **Q83**: Count vowels and consonants in a string.<br>2. **Q84**: Convert a lowercase string to uppercase without using built-in functions. | ⏳ Upcoming |
-| **Day 43** | Sep 21, 2026 | Strings | 1. **Q85**: Reverse a string.<br>2. **Q86**: Check if a string is a palindrome. | ⏳ Upcoming |
-| **Day 44** | Sep 22, 2026 | Strings | 1. **Q87**: Count spaces, digits, and special characters in a string.<br>2. **Q88**: Replace spaces with hyphens in a string. | ⏳ Upcoming |
-| **Day 45** | Sep 23, 2026 | Strings | 1. **Q89**: Count frequency of a given character in a string.<br>2. **Q90**: Toggle case of each character in a string. | ⏳ Upcoming |
-| **Day 46** | **Sep 24, 2026** *(Today)* | Strings | 1. **Q91**: Remove all vowels from a string.<br>2. **Q92**: Find the first repeating lowercase alphabet in a string. | ⏳ Upcoming |
-| **Day 47** | Sep 25, 2026 | Strings | 1. **Q93**: Check if two strings are anagrams of each other.<br>2. **Q94**: Find the longest word in a sentence. | ⏳ Upcoming |
+| **Day 38** | Sep 16, 2026 | 2D Arrays | 1. **Q75**: Add two matrices.<br>2. **Q76**: Check if a matrix is symmetric. | [`Q75.c`](./Day_38/Q75.c), [`Q76.c`](./Day_38/Q76.c) |
+| **Day 39** | Sep 17, 2026 | 2D Arrays | 1. **Q77**: Check if the elements on the diagonal of a matrix are distinct.<br>2. **Q78**: Find the sum of main diagonal elements for a square matrix. | [`Q77.c`](./Day_39/Q77.c), [`Q78.c`](./Day_39/Q78.c) |
+| **Day 40** | Sep 18, 2026 | 2D Arrays | 1. **Q79**: Perform diagonal traversal of a matrix.<br>2. **Q80**: Multiply two matrices. | [`Q79.c`](./Day_40/Q79.c), [`Q80.c`](./Day_40/Q80.c) |
+| **Day 41** | Sep 19, 2026 | Strings | 1. **Q81**: Count characters in a string without using built-in length functions.<br>2. **Q82**: Print each character of a string on a new line. | [`Q81.c`](./Day_41/Q81.c), [`Q82.c`](./Day_41/Q82.c) |
+| **Day 42** | Sep 20, 2026 | Strings | 1. **Q83**: Count vowels and consonants in a string.<br>2. **Q84**: Convert a lowercase string to uppercase without using built-in functions. | [`Q83.c`](./Day_42/Q83.c), [`Q84.c`](./Day_42/Q84.c) |
+| **Day 43** | Sep 21, 2026 | Strings | 1. **Q85**: Reverse a string.<br>2. **Q86**: Check if a string is a palindrome. | [`Q85.c`](./Day_43/Q85.c), [`Q86.c`](./Day_43/Q86.c) |
+| **Day 44** | Sep 22, 2026 | Strings | 1. **Q87**: Count spaces, digits, and special characters in a string.<br>2. **Q88**: Replace spaces with hyphens in a string. | [`Q87.c`](./Day_44/Q87.c), [`Q88.c`](./Day_44/Q88.c) |
+| **Day 45** | Sep 23, 2026 | Strings | 1. **Q89**: Count frequency of a given character in a string.<br>2. **Q90**: Toggle case of each character in a string. | [`Q89.c`](./Day_45/Q89.c), [`Q90.c`](./Day_45/Q90.c) |
+| **Day 46** | Sep 24, 2026 | Strings | 1. **Q91**: Remove all vowels from a string.<br>2. **Q92**: Find the first repeating lowercase alphabet in a string. | [`Q91.c`](./Day_46/Q91.c), [`Q92.c`](./Day_46/Q92.c) |
+| **Day 47** | **Sep 25, 2026** *(Today)* | Strings | 1. **Q93**: Check if two strings are anagrams of each other.<br>2. **Q94**: Find the longest word in a sentence. | [`Q93.c`](./Day_47/Q93.c), [`Q94.c`](./Day_47/Q94.c) |
 | **Day 48** | Sep 26, 2026 | Strings | 1. **Q95**: Check if one string is a rotation of another.<br>2. **Q96**: Reverse each word in a sentence without changing the word order. | ⏳ Upcoming |
 | **Day 49** | Sep 27, 2026 | Strings | 1. **Q97**: Print the initials of a name.<br>2. **Q98**: Print initials of a name with the surname displayed in full. | ⏳ Upcoming |
 | **Day 50** | Sep 28, 2026 | Strings | 1. **Q99**: Change the date format from dd/04/yyyy to dd-Apr-yyyy.<br>2. **Q100**: Print all sub-strings of a string. | ⏳ Upcoming |
